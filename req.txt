@@ -8,3 +8,8 @@ google.genai
 langgraph
 langchain_groq
 pyngrok
+python-dotenv
+Pillow
+google-genai
+
+
