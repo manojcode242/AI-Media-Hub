@@ -2,7 +2,6 @@ langchain
 langchain_core
 langchain_community
 openai
-python-dotenv
 streamlit
 google.genai
 langgraph
@@ -10,4 +9,5 @@ langchain_groq
 pyngrok
 python-dotenv
 Pillow
-google-genai
+
+
