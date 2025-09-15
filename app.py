@@ -108,7 +108,7 @@ st.markdown(
 # ==============================
 st.title("🤖 AI Media Hub")
 st.markdown(
-    "Your one-stop AI tool for **Image Generation, Captioning & Video Summarization** 🚀"
+    " One stop AI tool for **Image Generation, Captioning & Video Summarization** 🚀"
 )
 
 # ==============================
