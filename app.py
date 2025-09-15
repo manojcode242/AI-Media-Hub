@@ -1,5 +1,4 @@
 import streamlit as st
-from google import genai
 from google.genai import types
 from PIL import Image
 from io import BytesIO
@@ -224,3 +223,4 @@ with tab3:
             except Exception as e:
                 st.error(f"❌ Error: {e}")
     st.markdown("</div>", unsafe_allow_html=True)
+
